@@ -1,0 +1,12 @@
+{
+  "name": "shiny-fortnight",
+  "version": "1.0.0",
+  "description": "Bringing tech to the world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "kenlab-cmd",
+  "license": "MIT"
+}
